@@ -19,7 +19,7 @@
 
 | Topic | Status | Duration | Questions | Code |
 |:---|:---:|:---:|:---:|:---:|
-| **Introduction to DSA** | 🟩 In Progress  | 23/10/2025 → present | 0 | [📂 View Code](https://github.com/shruti31012006/Decode-DSA-with-CPP/) |
+| **Introduction to DSA** | 🟩 In Progress  | 23/10/2025 → present | 1 | [📂 View Code](https://github.com/shruti31012006/Decode-DSA-with-CPP/tree/main/01%20-%20Introduction) |
 | **Fundamentals of DSA** | ⏳ Upcoming | Soon | 0 | [📂 View Code](https://github.com/shruti31012006/) |
 
 
